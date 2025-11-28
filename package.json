@@ -1,0 +1,12 @@
+{
+  "name": "mern-final-project-scxbrian",
+  "version": "1.0.0",
+  "description": "This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
